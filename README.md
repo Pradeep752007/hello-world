@@ -5,6 +5,6 @@ repositories, commits, and README files works .And to introduce myself, this is 
 pursuing my B.tech degree from NIT(National Institute of Technology) Calicut.
 
 ## Files in this repository
-hello.cpp: My first c++ program on github platform(hello world)
-hello.py: My first python program on github platform(hello world)
+- hello.cpp: My first c++ program on github platform(hello world)
+- hello.py: My first python program on github platform(hello world)
 
