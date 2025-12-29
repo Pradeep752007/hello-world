@@ -4,7 +4,7 @@ Hi everyone ,
 repositories, commits, and README files works .And to introduce myself, this is Pradeep and i am a first year student currently 
 pursuing my B.tech degree from NIT(National Institute of Technology) Calicut.
 
-## files in this repository
+## Files in this repository
 hello.cpp: My first c++ program on github platform(hello world)
 hello.py: My first python program on github platform(hello world)
 
