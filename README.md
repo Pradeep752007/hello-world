@@ -9,5 +9,5 @@ pursuing my B.tech degree from NIT(National Institute of Technology) Calicut.
 - hello.py: My first python program on github platform(hello world)
 
 ### Languages used 
--c++
--python
+- c++
+- python
